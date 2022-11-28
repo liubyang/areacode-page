@@ -10,3 +10,8 @@
 2. 核酸剩余时间不正确
 
 > 解决方法：没人看，不用管
+
+---
+```bash
+python -m flask --app area_code run
+```
